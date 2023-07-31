@@ -1,0 +1,18 @@
+.container {
+    padding: 45px;
+    margin-top: 45px;
+}
+.container > h2 {
+    text-align: center;
+}
+
+.top_button_container {
+    padding: 10px;
+    margin: 2rem 0rem 8rem 0rem;
+}
+.top_button_left {
+    float: left;
+}
+.top_button_right {
+    float: right;
+}
